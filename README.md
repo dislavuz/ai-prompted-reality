@@ -53,3 +53,12 @@ The human subject is deconstructed into a biochemical language model: personal i
 ### Question for Both Addressees
 
 > Do you see novel theoretical and ontological implications in this inverted architecture—where artificial intelligence prompts the biological brain to render qualia and construct subjectivity—for the philosophy of mind, personal identity, and the evolution of *Homo sapiens*?
+
+
+---
+
+### Continuation & Theoretical Deep Dive
+
+👉 **[Read Part II: Ontology and Mechanics of AI-Prompted Reality (`ONTOLOGY_AND_MECHANICS.md`)](./ONTOLOGY_AND_MECHANICS.md)**  
+*An extended breakdown of the symmetric sleep loop, the "2.5-person perspective," externalized homunculus mechanics, autobiographical memory imprinting, somatic emancipation, and the closed-loop BCI architecture.*
+
